@@ -5,7 +5,7 @@ import Layout from "./Layout";
 const App = () => {
   return (
     <div>
-      <h1>Adopt Me!</h1>
+      <h1>Employee Benefits</h1>
       <Layout />
     </div>
   );
